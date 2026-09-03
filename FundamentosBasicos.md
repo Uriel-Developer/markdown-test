@@ -56,3 +56,12 @@ print("hello world")
 ![visual studio code logo](https://imgs.search.brave.com/vkwwqIUA1Li-uC52_HsrT79Tio49PzyLrrPaHINZq1w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy93ZWJw/L3ZzY29kZS53ZWJw "vscode logo")
 
 ![visual studio code logo](vscode.png "code")
+
+<!-- GITHUB MARKDOWN -->
+* [x] Task 1
+* [ ] Task 2
+* [ ] Task 3
+* [x] Task 4
+
+@Uriel-Developer :smiley: :+1:
+
